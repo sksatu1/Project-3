@@ -4,6 +4,25 @@
 }
 button{
     background: #E76F51;
+    color: aliceblue;
     border-radius: 5px;
     padding: 10px 45px;
+}
+
+.header-image img{
+    width: 100%
+}
+
+/* main-section */
+/* feature-section */
+.feature-section{
+    background: #E5E5E5;
+}
+
+/* .feature-section span{
+
+} */
+
+.feature-text-color{
+    color: #E76F51;
 }
