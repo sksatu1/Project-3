@@ -1,0 +1,9 @@
+/* header-secton */
+.bg-color-header{
+    background: #264653;
+}
+button{
+    background: #E76F51;
+    border-radius: 5px;
+    padding: 10px 45px;
+}
