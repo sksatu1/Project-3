@@ -14,14 +14,14 @@
 
 /* main-section */
 /* feature-section */
-.feature-section{
-    background: #E5E5E5;
+.text-orange{
+    color: #E76F51;
+}
+.feature-image{
+    filter: grayscale(100%);
 }
 
-/* .feature-section span{
-
-} */
-
-.feature-text-color{
-    color: #E76F51;
+/* clients-container */
+.star-fill{
+    color: #E77C40;;
 }
