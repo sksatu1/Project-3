@@ -2,10 +2,9 @@
 .bg-color-header{
     background: #264653;
 }
-button{
+.btn-style{
     background: #E76F51;
     color: aliceblue;
-    border-radius: 5px;
     padding: 10px 45px;
 }
 
